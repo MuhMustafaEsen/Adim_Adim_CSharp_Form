@@ -1,0 +1,22 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.frmList.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csproj.GenerateResource.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.exe.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.frmDictionary.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.exe.config
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\bin\Debug\02-GenericCollections.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csprojAssemblyReference.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.frmDictionary.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.frmList.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\_02_GenericCollections.Properties.Resources.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csproj.GenerateResource.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.csproj.CoreCompileInputs.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\02-GenericCollections\obj\Debug\02-GenericCollections.pdb

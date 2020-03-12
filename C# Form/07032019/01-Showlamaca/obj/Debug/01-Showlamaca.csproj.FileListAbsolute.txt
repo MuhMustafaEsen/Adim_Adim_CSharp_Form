@@ -1,0 +1,19 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.exe.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\_01_Showlamaca.Form1.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\_01_Showlamaca.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.csproj.GenerateResource.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.exe.config
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\bin\Debug\01-Showlamaca.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.csprojAssemblyReference.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\_01_Showlamaca.Form1.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\_01_Showlamaca.Properties.Resources.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.csproj.GenerateResource.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.csproj.CoreCompileInputs.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\01-Showlamaca\obj\Debug\01-Showlamaca.pdb

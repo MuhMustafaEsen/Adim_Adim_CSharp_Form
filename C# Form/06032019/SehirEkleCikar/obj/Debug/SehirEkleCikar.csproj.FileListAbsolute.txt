@@ -1,0 +1,9 @@
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\bin\Debug\SehirEkleCikar.exe.config
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\bin\Debug\SehirEkleCikar.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\bin\Debug\SehirEkleCikar.pdb
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.Form1.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.Properties.Resources.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.csproj.GenerateResource.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SehirEkleCikar\obj\Debug\SehirEkleCikar.pdb

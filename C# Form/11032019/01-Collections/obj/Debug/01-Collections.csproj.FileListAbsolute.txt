@@ -1,0 +1,36 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\bin\Debug\01-Collections.exe.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\bin\Debug\01-Collections.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\bin\Debug\01-Collections.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmArrayList.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csproj.GenerateResource.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\01-Collections.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\01-Collections.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmStackQueue.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmHashTable.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\bin\Debug\01-Collections.exe.config
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\bin\Debug\01-Collections.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\bin\Debug\01-Collections.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csprojAssemblyReference.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmArrayList.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmHashTable.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.frmStackQueue.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\_01_Collections.Properties.Resources.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csproj.GenerateResource.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\01-Collections.csproj.CoreCompileInputs.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\01-Collections.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190311_WinForms\20190311_WinForms\01-Collections\obj\Debug\01-Collections.pdb
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\bin\Debug\01-Collections.exe.config
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\bin\Debug\01-Collections.exe
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\bin\Debug\01-Collections.pdb
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\01-Collections.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\_01_Collections.frmArrayList.resources
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\_01_Collections.frmHashTable.resources
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\_01_Collections.frmStackQueue.resources
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\_01_Collections.Properties.Resources.resources
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\01-Collections.csproj.GenerateResource.cache
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\01-Collections.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\01-Collections.exe
+M:\GitHubGonderilenler\C# Form\11032019\11032019\01-Collections\obj\Debug\01-Collections.pdb

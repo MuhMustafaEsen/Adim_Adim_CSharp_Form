@@ -1,0 +1,22 @@
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.frmColor.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.frmMain.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csproj.GenerateResource.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csproj.CoreCompileInputs.cache
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.exe.config
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.pdb
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.exe
+C:\Users\Gizem İşeri\Desktop\İŞKURAkşam\02-WinForm\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.exe.config
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\bin\Debug\02-MultipleForms.pdb
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csprojAssemblyReference.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.frmColor.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.frmMain.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\_02_MultipleForms.Properties.Resources.resources
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csproj.GenerateResource.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.csproj.CoreCompileInputs.cache
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.exe
+M:\hepsi gizem hoca\drive-download-20191111T232007Z-001\02_WinForms\20190307_WinForms\20190307_WinForms\02-MultipleForms\obj\Debug\02-MultipleForms.pdb

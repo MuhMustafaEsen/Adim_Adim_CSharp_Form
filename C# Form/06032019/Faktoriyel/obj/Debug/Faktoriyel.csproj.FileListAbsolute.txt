@@ -1,0 +1,9 @@
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\bin\Debug\Faktoriyel.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\bin\Debug\Faktoriyel.pdb
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.Form1.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.Properties.Resources.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.csproj.GenerateResource.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\Faktoriyel\obj\Debug\Faktoriyel.pdb

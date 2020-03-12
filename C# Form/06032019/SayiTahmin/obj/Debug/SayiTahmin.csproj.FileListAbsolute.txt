@@ -1,0 +1,9 @@
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\bin\Debug\SayiTahmin.exe.config
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\bin\Debug\SayiTahmin.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\bin\Debug\SayiTahmin.pdb
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.Form1.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.Properties.Resources.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.csproj.GenerateResource.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\SayiTahmin\obj\Debug\SayiTahmin.pdb

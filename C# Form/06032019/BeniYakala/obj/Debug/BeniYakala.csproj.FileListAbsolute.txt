@@ -1,0 +1,9 @@
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\bin\Debug\BeniYakala.exe.config
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\bin\Debug\BeniYakala.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\bin\Debug\BeniYakala.pdb
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.Form1.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.Properties.Resources.resources
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.csproj.GenerateResource.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.exe
+M:\GitHubGonderilenler\C# Form\Yeni klasör\06032019\BeniYakala\obj\Debug\BeniYakala.pdb
